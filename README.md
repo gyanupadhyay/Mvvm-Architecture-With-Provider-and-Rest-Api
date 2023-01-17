@@ -1,6 +1,6 @@
-# mvvm
+# Mvvm-Architecture-With-Provider-and-Rest-Api
 
-A new Flutter project.
+A Flutter project which show implementation of MVVM Architechture in Flutter.
 
 ## Getting Started
 
